@@ -1,4 +1,4 @@
-### Pavlo Nohin | Backend developer
+### Pavlo Scherbak | Backend developer
 
 💻 **| Python | Django | PostgreSQL**
 📍 Vilhelmina, Sweden  
