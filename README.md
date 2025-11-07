@@ -20,8 +20,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Other Skills**  
-Asyncio • OOP • SOLID • REST APIs • WebSockets • JWT • OAuth • Pandas • Matplotlib
-
+Asyncio • REST • JWT • OAuth
